@@ -1,11 +1,11 @@
 ,Interacción,Importancia,Dirección
-0,"('9_VarExp_Atri_IndMelhorTecnDiqCint', '10_VarExp_Atri_MelhorTecnTubos')",2.6419219842248975,0.2784865905345482
-1,"('Avg_Distancia_Dist_moranza', '10_VarExp_Atri_MelhorTecnTubos')",2.421882455226299,-0.002204446742396491
-2,"('2_VarExp_Atri_Tabanca', '10_VarExp_Atri_MelhorTecnTubos')",2.387619079316417,0.01404204148261955
-3,"('3_VarExp_Atri_Fanado', '10_VarExp_Atri_MelhorTecnTubos')",2.3867659591977777,0.03526860375473693
-4,"('4_VarExp_Atri_CargosWM', '10_VarExp_Atri_MelhorTecnTubos')",2.3862195463746185,0.03737084319865141
-5,"('8_VarExp_Atri_IndInvestDiq', '10_VarExp_Atri_MelhorTecnTubos')",2.384858671332256,0.06523592423656745
-6,"('5_VarExp_Atri_Idade', '10_VarExp_Atri_MelhorTecnTubos')",2.384568697201948,-0.0024521458377481414
-7,"('7_VarExp_Atri_IndForcaFugon', '10_VarExp_Atri_MelhorTecnTubos')",2.3841985747901138,0.004383367081795041
-8,"('Degree_RedeTotFamil', '10_VarExp_Atri_MelhorTecnTubos')",2.3701490219694006,-0.014173725119948329
-9,"('1_VarExp_Moranca', '10_VarExp_Atri_MelhorTecnTubos')",2.364569506188098,-0.0033946520492132
+0,"('PC1_Distance_Pro', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.397774107361142,-0.004418225530233642
+1,"('PC1_Distance_Pro', '1_VarExp_Moranca')",0.3135243341308412,-0.00827981213016291
+2,"('Degree_RedeTotFamil', '1_VarExp_Moranca')",0.3055202852665994,0.05031214303443579
+3,"('1_VarExp_Moranca', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.30330120838662267,-0.021173196271919298
+4,"('Degree_RedeTotFamil', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.2969372197067954,0.04280964512178161
+5,"('2_VarExp_Atri_Tabanca', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.2688281671438148,-0.007426750214399191
+6,"('5_VarExp_Atri_Idade', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.2654183698842015,-0.005843516835499417
+7,"('9_VarExp_Atri_IndMelhorTecnDiqCint', '10_VarExp_Atri_MelhorTecnTubos')",0.26219010236238594,0.033998040741265445
+8,"('8_VarExp_Atri_IndInvestDiq', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.2604216975991408,0.04873837793605442
+9,"('3_VarExp_Atri_Fanado', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.258162972845391,-0.011702418408701908
