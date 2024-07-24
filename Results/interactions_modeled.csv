@@ -1,11 +1,11 @@
 ,Interacción,Importancia,Dirección
-0,"('Avg_Distancia_Dist_moranza', '2_VarExp_Atri_Tabanca')",3.1082622425863438,0.05145938038422145
-1,"('Avg_Distancia_Dist_moranza', '7_VarExp_Atri_IndForcaFugon')",2.98171241362542,0.05185289147290589
-2,"('Indeg_VendaParcela', 'Avg_Distancia_Dist_moranza')",2.92991478157421,0.12122424745016812
-3,"('Avg_Distancia_Dist_moranza', '10_VarExp_Atri_MelhorTecnTubos')",2.9019075744284617,0.04916087529394646
-4,"('Indeg_RedeRisk_Cen', 'Avg_Distancia_Dist_moranza')",2.8979291421669595,-0.017938101675689204
-5,"('PC2_Distance_Pro', 'Avg_Distancia_Dist_moranza')",2.868945929009592,0.005092634421597373
-6,"('Indeg_PaiTiopaterC', 'Avg_Distancia_Dist_moranza')",2.859281538818304,-0.009075805287785859
-7,"('Indeg_RedeConfianc', 'Avg_Distancia_Dist_moranza')",2.851981136300075,0.010426641367668903
-8,"('Avg_Distancia_Dist_moranza', '8_VarExp_Atri_IndInvestDiq')",2.8501768249691697,0.04753392417044293
-9,"('Indeg_RedConfltAgu', 'Avg_Distancia_Dist_moranza')",2.849990357446936,-0.005633634002256779
+0,"('9_VarExp_Atri_IndMelhorTecnDiqCint', '10_VarExp_Atri_MelhorTecnTubos')",2.6419219842248975,0.2784865905345482
+1,"('Avg_Distancia_Dist_moranza', '10_VarExp_Atri_MelhorTecnTubos')",2.421882455226299,-0.002204446742396491
+2,"('2_VarExp_Atri_Tabanca', '10_VarExp_Atri_MelhorTecnTubos')",2.387619079316417,0.01404204148261955
+3,"('3_VarExp_Atri_Fanado', '10_VarExp_Atri_MelhorTecnTubos')",2.3867659591977777,0.03526860375473693
+4,"('4_VarExp_Atri_CargosWM', '10_VarExp_Atri_MelhorTecnTubos')",2.3862195463746185,0.03737084319865141
+5,"('8_VarExp_Atri_IndInvestDiq', '10_VarExp_Atri_MelhorTecnTubos')",2.384858671332256,0.06523592423656745
+6,"('5_VarExp_Atri_Idade', '10_VarExp_Atri_MelhorTecnTubos')",2.384568697201948,-0.0024521458377481414
+7,"('7_VarExp_Atri_IndForcaFugon', '10_VarExp_Atri_MelhorTecnTubos')",2.3841985747901138,0.004383367081795041
+8,"('Degree_RedeTotFamil', '10_VarExp_Atri_MelhorTecnTubos')",2.3701490219694006,-0.014173725119948329
+9,"('1_VarExp_Moranca', '10_VarExp_Atri_MelhorTecnTubos')",2.364569506188098,-0.0033946520492132
