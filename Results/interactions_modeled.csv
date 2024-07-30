@@ -1,11 +1,11 @@
 ,Interacción,Importancia,Dirección
-0,"('PC1_Distance_Pro', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.397774107361142,-0.004418225530233642
-1,"('PC1_Distance_Pro', '1_VarExp_Moranca')",0.3135243341308412,-0.00827981213016291
-2,"('Degree_RedeTotFamil', '1_VarExp_Moranca')",0.3055202852665994,0.05031214303443579
-3,"('1_VarExp_Moranca', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.30330120838662267,-0.021173196271919298
-4,"('Degree_RedeTotFamil', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.2969372197067954,0.04280964512178161
-5,"('2_VarExp_Atri_Tabanca', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.2688281671438148,-0.007426750214399191
-6,"('5_VarExp_Atri_Idade', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.2654183698842015,-0.005843516835499417
-7,"('9_VarExp_Atri_IndMelhorTecnDiqCint', '10_VarExp_Atri_MelhorTecnTubos')",0.26219010236238594,0.033998040741265445
-8,"('8_VarExp_Atri_IndInvestDiq', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.2604216975991408,0.04873837793605442
-9,"('3_VarExp_Atri_Fanado', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.258162972845391,-0.011702418408701908
+0,"('Degree_IntimAmigUnd', 'PC1_Distance_Pro')",1.149059903053532,0.20356916767262043
+1,"('Degree_IntimAmigUnd', '1_VarExp_Moranca')",0.9104658213734605,0.16442010714176203
+2,"('Degree_IntimAmigUnd', 'Degree_RedeTotFamil')",0.90043620958636,0.1735087217151769
+3,"('Degree_IntimAmigUnd', 'Indeg_RedeConfianc')",0.8634713779682467,0.16976017425439358
+4,"('Degree_IntimAmigUnd', 'Avg_Distancia_Dist_moranza')",0.8572286999124141,0.1688581756068334
+5,"('Degree_IntimAmigUnd', '8_VarExp_Atri_IndInvestDiq')",0.8460974119935574,0.16613368538226872
+6,"('Degree_IntimAmigUnd', '5_VarExp_Atri_Idade')",0.842900992256762,0.1621060846879162
+7,"('Degree_IntimAmigUnd', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.8321967814752924,0.16448621408032224
+8,"('Degree_IntimAmigUnd', 'Indeg_RedeRisk_Cen')",0.8057740889556255,0.16124155075323968
+9,"('Degree_IntimAmigUnd', '7_VarExp_Atri_IndForcaFugon')",0.7950451269544471,0.1563084414127611
