@@ -1,11 +1,11 @@
 ,Interacción,Importancia,Dirección
-0,"('Avg_Distancia_Dist_moranza', '7_VarExp_Atri_IndForcaFugon')",1.879069794208951,0.06018790382597245
-1,"('Avg_Distancia_Dist_moranza', 'Area_bolanha')",1.7488391219698534,0.0515874594551037
-2,"('PC1_Distance_Pro', 'Avg_Distancia_Dist_moranza')",1.7083129855725725,0.014005827382133242
-3,"('Avg_Distancia_Dist_moranza', '2_VarExp_Atri_Tabanca')",1.6761815685842498,0.054693883083586525
-4,"('Avg_Distancia_Dist_moranza', '5_VarExp_Atri_Idade')",1.6438129159627544,0.05407345963492595
-5,"('OutDeg_RedeRisk_Cen', 'Avg_Distancia_Dist_moranza')",1.5734885226254711,-0.03407015790575968
-6,"('Avg_Distancia_Dist_moranza', '1_VarExp_Moranca')",1.563131469107126,0.0540242323463271
-7,"('Avg_Distancia_Dist_moranza', 'Degree_RedeTotFamil')",1.5613944695547974,0.053618940516943214
-8,"('Avg_Distancia_Dist_moranza', '3_VarExp_Atri_Fanado')",1.559102468593536,0.05360465708410528
-9,"('Degree_IntimAmigUnd', 'Avg_Distancia_Dist_moranza')",1.5208848893288631,-0.036434940700328405
+0,"('Indeg_RedeConfianc', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.588978866519543,0.2035520144040119
+1,"('Indeg_RedeConfianc', 'PC1_Distance_Pro')",0.5372875018298752,0.21584653381693159
+2,"('Indeg_RedeConfianc', '10_VarExp_Atri_MelhorTecnTubos')",0.52639408635684,0.2161356924158538
+3,"('Indeg_RedeRisk_Cen', 'Indeg_RedeConfianc')",0.5109574130098165,-0.006219764068005573
+4,"('Indeg_RedeConfianc', '5_VarExp_Atri_Idade')",0.50989605378424,0.2095482914787931
+5,"('Indeg_RedeConfianc', 'Area_bolanha')",0.5088518910990165,0.2077682870393137
+6,"('Indeg_RedeConfianc', '1_VarExp_Moranca')",0.505741014424594,0.2090316072398378
+7,"('Indeg_RedeConfianc', '3_VarExp_Atri_Fanado')",0.5036781779877267,0.2086479593030214
+8,"('Indeg_RedeConfianc', 'Degree_RedeConflitA')",0.5030526885857224,0.20849078201992652
+9,"('Indeg_RedeConfianc', '8_VarExp_Atri_IndInvestDiq')",0.5011292395342279,0.20777237903964946
