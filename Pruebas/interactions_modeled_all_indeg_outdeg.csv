@@ -1,0 +1,11 @@
+,Interacción,Importancia,Dirección
+0,"('Indeg_RedeConfianc', '9_VarExp_Atri_IndMelhorTecnDiqCint')",0.5676988774610813,0.2025517353547792
+1,"('Degree_IntimAmigUnd', 'Indeg_RedeConfianc')",0.4649941336812977,0.041676266851788824
+2,"('Indeg_IntimAmigos_', 'Indeg_RedeConfianc')",0.4557702422433444,0.032373539331229
+3,"('Indeg_RedeConfianc', '10_VarExp_Atri_MelhorTecnTubos')",0.44950553872303156,0.20842232749604345
+4,"('Indeg_RedeConfianc', 'PC1_Distance_Pro')",0.4494869205783177,0.20700554069621796
+5,"('Indeg_RedeConfianc', 'Avg_Distancia_Dist_moranza')",0.446171737359762,0.2053714061890876
+6,"('Indeg_RedeConfianc', '7_VarExp_Atri_IndForcaFugon')",0.4459854821889607,0.20091142706580958
+7,"('Indeg_RedeConfianc', 'Degree_RedeConflitG')",0.4450610469022396,0.2021787333326741
+8,"('Indeg_RedeConfianc', 'OutDeg_TiosMaternos')",0.44499846314766445,0.2049867463034519
+9,"('Indeg_RedeConfianc', 'Indeg_VendaParcela')",0.4445089623719744,0.20353479551587944
