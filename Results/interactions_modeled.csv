@@ -1,11 +1,11 @@
 ,Interacción,Importancia,Dirección
-0,"('PC1_Distance_Pro', 'Area_bolanha')",0.3564462863811134,0.0026393905449200077
-1,"('1_VarExp_Moranca', 'Area_bolanha')",0.34479993621302396,0.009957843897791347
-2,"('Indeg_RedeRisk_Cen', 'Area_bolanha')",0.3333056444314383,0.03358016400654
-3,"('5_VarExp_Atri_Idade', 'Area_bolanha')",0.3301536347778292,-0.010333270510447664
-4,"('Indeg_IntimAmigos_', 'Area_bolanha')",0.3198529921899757,-0.009990921920008484
-5,"('Degree_RedeConflitA', 'Area_bolanha')",0.31638270384163286,0.4101472205797377
-6,"('Degree_IntimAmigUnd', 'Area_bolanha')",0.3145299472062161,-0.00010943785082052214
-7,"('4_VarExp_Atri_CargosWM', 'Area_bolanha')",0.3135868281529387,0.049639020932474784
-8,"('Degree_RedeTotFamil', 'Area_bolanha')",0.3119383628542657,0.0017986867325677656
-9,"('8_VarExp_Atri_IndInvestDiq', 'Area_bolanha')",0.3108691517276943,0.003644358657007891
+0,"('1_VarExp_Moranca', '2_VarExp_Atri_Tabanca')",0.40127721971392316,-0.002499354500518333
+1,"('2_VarExp_Atri_Tabanca', '10_VarExp_Atri_MelhorTecnTubos')",0.38663566220686146,0.42799602841392914
+2,"('Degree_IntimAmigUnd', '2_VarExp_Atri_Tabanca')",0.372816166470323,-6.394881514303313e-05
+3,"('OutDeg_IntimAmigos_', '2_VarExp_Atri_Tabanca')",0.3725977050354178,0.003585204680741571
+4,"('2_VarExp_Atri_Tabanca', 'Area_bolanha')",0.36926410175119195,0.4077092816184247
+5,"('2_VarExp_Atri_Tabanca', '8_VarExp_Atri_IndInvestDiq')",0.3663247951778166,0.4040482402854931
+6,"('Degree_RedeTotFamil', '2_VarExp_Atri_Tabanca')",0.3639273327098498,0.004735263150789173
+7,"('OutDeg_RedeConfianc', '2_VarExp_Atri_Tabanca')",0.36306673788241084,0.054890795257441886
+8,"('PC1_Distance_Pro', '2_VarExp_Atri_Tabanca')",0.3602235649213709,-0.003910516553377801
+9,"('OutDeg_RedConfltAgu', '2_VarExp_Atri_Tabanca')",0.3569883489433529,0.18525321831592909

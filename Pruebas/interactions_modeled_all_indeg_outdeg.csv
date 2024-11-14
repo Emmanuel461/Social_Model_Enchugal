@@ -1,11 +1,11 @@
 ,Interacción,Importancia,Dirección
-0,"('OutDeg_RedeConfianc', 'OutDeg_VendaParcela')",0.2722625028368841,0.12121676413255078
-1,"('Area_bolanha', 'OutDeg_RedeConfianc')",0.21531164460162344,-0.0028827111282765964
-2,"('Indeg_RedConfltAgu', 'OutDeg_RedeConfianc')",0.20091382681655742,0.006165129139214952
-3,"('OutDeg_RedConfltAgu', 'OutDeg_RedeConfianc')",0.19950039367077596,0.00573756943897309
-4,"('3_VarExp_Atri_Fanado', 'OutDeg_RedeConfianc')",0.19719484015906427,0.005135565905731683
-5,"('OutDeg_RedeRisk_Cen', 'OutDeg_RedeConfianc')",0.19654196924359965,0.011784845506094335
-6,"('Degree_IntimAmigUnd', 'OutDeg_RedeConfianc')",0.1964783626728764,-0.0025021281608526924
-7,"('4_VarExp_Atri_CargosWM', 'OutDeg_RedeConfianc')",0.19633162263411563,0.003414134973628228
-8,"('7_VarExp_Atri_IndForcaFugon', 'OutDeg_RedeConfianc')",0.19581710903458735,-0.016219378173664763
-9,"('8_VarExp_Atri_IndInvestDiq', 'OutDeg_RedeConfianc')",0.19538485484355525,0.006878496061111239
+0,"('9_VarExp_Atri_IndMelhorTecnDiqCint', '10_VarExp_Atri_MelhorTecnTubos')",5.481602948150881,0.5487310853960568
+1,"('1_VarExp_Moranca', '10_VarExp_Atri_MelhorTecnTubos')",4.358105361932035,-0.01226746860766067
+2,"('8_VarExp_Atri_IndInvestDiq', '10_VarExp_Atri_MelhorTecnTubos')",4.353749110936116,0.37704543545608105
+3,"('10_VarExp_Atri_MelhorTecnTubos', 'OutDeg_RedeRisk_Cen')",4.345334991002079,1.228123583346453
+4,"('10_VarExp_Atri_MelhorTecnTubos', 'Area_bolanha')",4.339977261861009,1.232971618442942
+5,"('Degree_RedeTotFamil', '10_VarExp_Atri_MelhorTecnTubos')",4.328026693843894,0.020857228365311856
+6,"('PC1_Distance_Pro', '10_VarExp_Atri_MelhorTecnTubos')",4.295147134774435,0.004449607115831005
+7,"('Indeg_RedeRisk_Cen', '10_VarExp_Atri_MelhorTecnTubos')",4.2876580578663015,0.03998856096718431
+8,"('Indeg_IntimAmigos_', '10_VarExp_Atri_MelhorTecnTubos')",4.251280969035457,0.1859554732762444
+9,"('9_VarExp_Atri_IndMelhorTecnDiqCint', 'Area_bolanha')",3.7234297003551284,0.5893757033114339
