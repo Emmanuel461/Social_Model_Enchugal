@@ -1,11 +1,11 @@
-,Interacción,Importancia,Dirección
-0,"('1_VarExp_Moranca', '2_VarExp_Atri_Tabanca')",0.40127721971392316,-0.002499354500518333
-1,"('2_VarExp_Atri_Tabanca', '10_VarExp_Atri_MelhorTecnTubos')",0.38663566220686146,0.42799602841392914
-2,"('Degree_IntimAmigUnd', '2_VarExp_Atri_Tabanca')",0.372816166470323,-6.394881514303313e-05
-3,"('OutDeg_IntimAmigos_', '2_VarExp_Atri_Tabanca')",0.3725977050354178,0.003585204680741571
-4,"('2_VarExp_Atri_Tabanca', 'Area_bolanha')",0.36926410175119195,0.4077092816184247
-5,"('2_VarExp_Atri_Tabanca', '8_VarExp_Atri_IndInvestDiq')",0.3663247951778166,0.4040482402854931
-6,"('Degree_RedeTotFamil', '2_VarExp_Atri_Tabanca')",0.3639273327098498,0.004735263150789173
-7,"('OutDeg_RedeConfianc', '2_VarExp_Atri_Tabanca')",0.36306673788241084,0.054890795257441886
-8,"('PC1_Distance_Pro', '2_VarExp_Atri_Tabanca')",0.3602235649213709,-0.003910516553377801
-9,"('OutDeg_RedConfltAgu', '2_VarExp_Atri_Tabanca')",0.3569883489433529,0.18525321831592909
+,Interaction,Importance,Direction
+0,"('Degree_RedeTotFamil', '1_VarExp_Moranca')",0.4877769431214182,0.06305194181184497
+1,"('OutDeg_RedeRisk_Cen', 'Degree_RedeTotFamil')",0.4621398536087122,0.009511677405416755
+2,"('Degree_RedeTotFamil', '5_VarExp_Atri_Idade')",0.46152075679694887,0.0652674180379385
+3,"('Avg_Distancia_Dist_moranza', 'Degree_RedeTotFamil')",0.4459974846589537,0.002289758776206911
+4,"('PC1_Distance_Pro', 'Degree_RedeTotFamil')",0.4413397347508623,0.00028130321287363495
+5,"('OutDeg_RedConfltAgu', 'Degree_RedeTotFamil')",0.4399677121129309,0.06952258661356285
+6,"('Degree_RedeTotFamil', 'Area_bolanha')",0.43957348724317374,0.061674023576119806
+7,"('Degree_RedeTotFamil', '10_VarExp_Atri_MelhorTecnTubos')",0.43863738294850096,0.061211331896838264
+8,"('OutDeg_RedeConfianc', 'Degree_RedeTotFamil')",0.4378925061087611,0.013212253881604226
+9,"('Degree_IntimAmigUnd', 'Degree_RedeTotFamil')",0.4374618365831433,0.008336680038105936
